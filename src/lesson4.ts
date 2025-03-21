@@ -44,3 +44,6 @@ const customer: [name: string | undefined, age?: number, isActive?: boolean] = [
 
 console.log(customer, customer[0]);
 
+
+
+
